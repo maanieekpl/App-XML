@@ -1,0 +1,9 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<?xml-stylesheet href="task1.xsl" type="text/xsl"?>
+<details>
+	<name>Adrian</name>
+	<surname>Koszowski</surname>
+	<home_address>Strzelin</home_address>
+	<phone>666555444</phone>
+	<job>none</job>
+</details>

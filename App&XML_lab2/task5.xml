@@ -1,0 +1,620 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="task5.xsl" type="text/xsl"?>
+
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Technology</title>
+    <link>https://www.nytimes.com/section/technology?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/Technology.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2017  The New York Times Company</copyright>
+    <lastBuildDate>Tue, 24 Oct 2017 11:41:40 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; Technology</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/technology?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>Inside Amazon, Diversity Concerns Flare Up After Harassment Accusations</title>
+      <link>https://www.nytimes.com/2017/10/20/technology/amazon-sexual-harassment.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/20/technology/amazon-sexual-harassment.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/20/technology/amazon-sexual-harassment.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/22/business/21AMAZON1/21AMAZON1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Like other technology companies, Amazon has described improving the diversity of its work force as an important company goal.</media:description>
+      <media:credit>Stuart Isett for The New York Times</media:credit>
+      <description>Amazon&#x2019;s handling of accusations of sexual harassment involving Roy Price, who ran its movie and television operations, has set off confusion, debate and finger-pointing.</description>
+      <dc:creator>NICK WINGFIELD</dc:creator>
+      <pubDate>Sat, 21 Oct 2017 01:35:54 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Workplace Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Price, Roy (1967- )</category>
+    </item>
+    <item>
+      <title>Feature: How the Appetite for Emojis Complicates the Effort to Standardize the World&#x2019;s Alphabets</title>
+      <link>https://www.nytimes.com/2017/10/18/magazine/how-the-appetite-for-emojis-complicates-the-effort-to-standardize-the-worlds-alphabets.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/18/magazine/how-the-appetite-for-emojis-complicates-the-effort-to-standardize-the-worlds-alphabets.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/18/magazine/how-the-appetite-for-emojis-complicates-the-effort-to-standardize-the-worlds-alphabets.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/22/magazine/22unicode/22unicode-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Illustration by Matt Dorfman</media:credit>
+      <description>Do the volunteers behind Unicode, whose mission is to bring all human languages into the digital sphere, have enough bandwidth to deal with emojis too?</description>
+      <dc:creator>MICHAEL ERARD</dc:creator>
+      <pubDate>Wed, 18 Oct 2017 09:05:55 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Unicode Consortium</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emojis and Emoticons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Text Messaging</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Language and Languages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Rohingya (Ethnic Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Standards and Standardization</category>
+    </item>
+    <item>
+      <title>Meet the People Who Will Defend Google, Facebook and Twitter Before Lawmakers</title>
+      <link>https://www.nytimes.com/2017/10/20/technology/meet-the-men-who-will-defend-google-facebook-and-twitter-before-lawmakers.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/20/technology/meet-the-men-who-will-defend-google-facebook-and-twitter-before-lawmakers.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/20/technology/meet-the-men-who-will-defend-google-facebook-and-twitter-before-lawmakers.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/22/business/21TECHHEARING1/21TECHHEARING1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Google, Facebook and Twitter are sending in their general counsels to testify at congressional hearings on Nov. 1.</media:description>
+      <media:credit>Al Drago for The New York Times</media:credit>
+      <description>The internet companies are putting their general counsels in the hot seats in front of lawmakers on Nov. 1.</description>
+      <dc:creator>CECILIA KANG and DAISUKE WAKABAYASHI</dc:creator>
+      <pubDate>Fri, 20 Oct 2017 23:23:09 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Twitter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stretch, Colin Sullivan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Walker, Kent</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Edgett, Sean</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Legal Profession</category>
+    </item>
+    <item>
+      <title>Bits: Farhad and Mike&#x2019;s Week in Tech: Regulation Is Looming</title>
+      <link>https://www.nytimes.com/2017/10/20/technology/farhad-and-mike-tech-regulation-is-coming.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/20/technology/farhad-and-mike-tech-regulation-is-coming.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/20/technology/farhad-and-mike-tech-regulation-is-coming.html?partner=rss&amp;emc=rss"/>
+      <description>In this week&#x2019;s tech newsletter, the tech giants battle Washington&#x2019;s regulatory fervor. Also, Lyft gets a lot of money, and Google may remake Toronto.</description>
+      <dc:creator>FARHAD MANJOO and MIKE ISAAC</dc:creator>
+      <pubDate>Fri, 20 Oct 2017 13:00:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Car Services and Livery Cabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Alphabet Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Lyft Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Google Inc</category>
+    </item>
+    <item>
+      <title>Russia&#x2019;s Favored Outlet Is an Online News Giant. YouTube Helped.</title>
+      <link>https://www.nytimes.com/2017/10/23/technology/youtube-russia-rt.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/23/technology/youtube-russia-rt.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/23/technology/youtube-russia-rt.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/24/business/jpYOUTUBE/24YOUTUBE1-1508787597073-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Robert Kyncl, left, a YouTube executive, helped RT celebrate reaching one billion views on the video service in 2013.</media:description>
+      <media:credit/>
+      <description>RT was early to embrace the video site. Now that relationship is drawing scrutiny as investigators look into Russian interference in the 2016 presidential election.</description>
+      <dc:creator>DAISUKE WAKABAYASHI and NICHOLAS CONFESSORE</dc:creator>
+      <pubDate>Tue, 24 Oct 2017 02:11:52 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Propaganda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">RT (TV Network)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">YouTube.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kyncl, Robert</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warner, Mark R</category>
+    </item>
+    <item>
+      <title>Amazon Counts Its Suitors: 238 Want to Be Home for 2nd Headquarters</title>
+      <link>https://www.nytimes.com/2017/10/23/technology/amazon-headquarters.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/23/technology/amazon-headquarters.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/23/technology/amazon-headquarters.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/24/business/24AMAZON1/24AMAZON1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Mayor Ras J. Baraka of Newark, center, with New Jersey Gov. Chris Christie, left, and Senator Cory Booker. The city and state are offering up to $7 billion in tax breaks for Amazon&#x2019;s new headquarters.</media:description>
+      <media:credit>Bryan Anselm for The New York Times</media:credit>
+      <description>The bidders came from 43 U.S. states, as well as Canada and Mexico. Amazon says the project will create 50,000 jobs, and that the winner will be announced next year.</description>
+      <dc:creator>NICK WINGFIELD</dc:creator>
+      <pubDate>Mon, 23 Oct 2017 21:05:34 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Relocation of Business</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Amazon.com Inc</category>
+    </item>
+    <item>
+      <title>Reading This While Walking? In Honolulu, It Could Cost You</title>
+      <link>https://www.nytimes.com/2017/10/23/business/honolulu-walking-and-texting-fine.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/23/business/honolulu-walking-and-texting-fine.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/23/business/honolulu-walking-and-texting-fine.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/24/business/24ITINERARIES1/24ITINERARIES1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Pedestrians on Hotel Street at Fort Street Mall in Honolulu. Honolulu enacted a law, set to take effect Wednesday, that allows the police to fine pedestrians up to $35 for viewing their electronic devices while crossing streets in the city and surrounding county.</media:description>
+      <media:credit>Marco Garcia for The New York Times</media:credit>
+      <description>The city has passed a law designed to protect pedestrians staring at their smartphones from themselves. But critics say engineering and redesigning streets would be more effective.</description>
+      <dc:creator>TANYA MOHN</dc:creator>
+      <pubDate>Mon, 23 Oct 2017 20:56:25 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Text Messaging</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Walking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Honolulu (Hawaii)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Roads and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Smartphones</category>
+    </item>
+    <item>
+      <title>Tech Tip: New Windows for the Fall Season</title>
+      <link>https://www.nytimes.com/2017/10/23/technology/personaltech/windows-10-fall-creators-update.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/23/technology/personaltech/windows-10-fall-creators-update.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/23/technology/personaltech/windows-10-fall-creators-update.html?partner=rss&amp;emc=rss"/>
+      <description>Microsoft&#x2019;s second major Windows 10 update was released last week and may already be installed on your computer.</description>
+      <dc:creator>J. D. BIERSDORFER</dc:creator>
+      <pubDate>Mon, 23 Oct 2017 14:13:57 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Windows (Operating System)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Microsoft Corp</category>
+    </item>
+    <item>
+      <title>B Capital Hires Howard L. Morgan as Its New Chairman</title>
+      <link>https://www.nytimes.com/2017/10/23/business/dealbook/b-capital-howard-morgan.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/23/business/dealbook/b-capital-howard-morgan.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/23/business/dealbook/b-capital-howard-morgan.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/24/business/24db-morgan-1/24db-morgan-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Howard L. Morgan in 2012</media:description>
+      <media:credit>Scott Eells/Bloomberg</media:credit>
+      <description>The venture capital fund taps a veteran of the start-up world as it looks to broaden its scope beyond Silicon Valley and China.</description>
+      <dc:creator>MICHAEL J. de la MERCED</dc:creator>
+      <pubDate>Tue, 24 Oct 2017 00:30:57 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">B Capital Group</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eduardo Severin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
+    </item>
+    <item>
+      <title>Advertising: With Literary Support, Xerox Asserts Its Modern Relevance</title>
+      <link>https://www.nytimes.com/2017/10/22/business/media/xerox-writers-92nd-street-y.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/22/business/media/xerox-writers-92nd-street-y.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/22/business/media/xerox-writers-92nd-street-y.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/23/business/23ADCO3/23ADCO3-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The author Gary Shteyngart used a voice-activated printer to write his essay for Xerox&#x2019;s &#x201C;Set the Page Free&#x201D; project.</media:description>
+      <media:credit>Kaitlin Parry</media:credit>
+      <description>Xerox, in collaboration with the 92nd Street Y, gathered essays from writers like Gary Shteyngart and Joyce Carol Oates to help reinforce its role in the workplace.</description>
+      <dc:creator>MATT KRUPNICK</dc:creator>
+      <pubDate>Sun, 22 Oct 2017 22:54:41 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Xerox Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Advertising and Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Ninety-Second Street Y</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Workplace Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shteyngart, Gary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Oates, Joyce Carol</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schwartz, Bernard</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Collins, Billy (1941- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Child, Lee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mann, Aimee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Coulton, Jonathan</category>
+    </item>
+    <item>
+      <title>Tech Giants Are Paying Huge Salaries for Scarce A.I. Talent</title>
+      <link>https://www.nytimes.com/2017/10/22/technology/artificial-intelligence-experts-salaries.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/22/technology/artificial-intelligence-experts-salaries.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/22/technology/artificial-intelligence-experts-salaries.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/17/business/00TALENTWAR-2/00TALENTWAR-2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Luke Zettlemoyer, a professor at the University of Washington, at a campus library. He turned down a lucrative offer from Google, instead taking a post at the nonprofit Allen Institute for Artificial Intelligence so he could continue teaching.</media:description>
+      <media:credit>Kyle Johnson for The New York Times</media:credit>
+      <description>Nearly all big tech companies have an artificial intelligence project, and they are willing to pay experts millions of dollars to help get it done.</description>
+      <dc:creator>CADE METZ</dc:creator>
+      <pubDate>Sun, 22 Oct 2017 22:32:40 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Wages and Salaries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Uber Technologies Inc</category>
+    </item>
+    <item>
+      <title>A Showdown Brews Between Amazon and Alibaba, Far From Home</title>
+      <link>https://www.nytimes.com/2017/10/22/business/alibaba-amazon-southeast-asia-lazada.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/22/business/alibaba-amazon-southeast-asia-lazada.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/22/business/alibaba-amazon-southeast-asia-lazada.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/30/business/00seasia-lazada1/00seasia-lazada1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The RedMart warehouse in Singapore. The online grocery is part of Alibaba&#x2019;s push into Southeast Asia.</media:description>
+      <media:credit>Lauryn Ishak for The New York Times</media:credit>
+      <description>The e-commerce giants are spending billions in new markets like Southeast Asia and India to tap a rising new class of young, middle-class shoppers.</description>
+      <dc:creator>JANE A. PETERSON</dc:creator>
+      <pubDate>Sun, 22 Oct 2017 18:48:26 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far East, South and Southeast Asia and Pacific Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Alibaba Group Holding Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Amazon.com Inc</category>
+    </item>
+    <item>
+      <title>With...Susan Fowler: She&#x2019;s 26, and Brought Down Uber&#x2019;s C.E.O. What&#x2019;s Next?</title>
+      <link>https://www.nytimes.com/2017/10/21/style/susan-fowler-uber.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/21/style/susan-fowler-uber.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/21/style/susan-fowler-uber.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/22/fashion/22WITH/22WITH-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Susan Fowler describes herself as &#x201C;an amateur myrmecologist.&#x201D;</media:description>
+      <media:credit>Damien Maloney for The New York Times</media:credit>
+      <description>In her first interview since the essay that started a wave of sexual-harassment revelations, Susan Fowler tells her life story and looks to the future.</description>
+      <dc:creator>MAUREEN DOWD</dc:creator>
+      <pubDate>Sun, 22 Oct 2017 02:22:51 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fowler, Susan J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Sexual Harassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Uber Technologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kalanick, Travis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huffington, Arianna</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+    </item>
+    <item>
+      <title>Confirm or Deny ... Susan Fowler</title>
+      <link>https://www.nytimes.com/2017/10/21/style/confirm-or-deny-susan-fowler.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/21/style/confirm-or-deny-susan-fowler.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/21/style/confirm-or-deny-susan-fowler.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/22/fashion/22CONFIRMORDENY/22CONFIRMORDENY-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Susan Fowler at her home.</media:description>
+      <media:credit>Damien Maloney for The New York Times</media:credit>
+      <description>The former Uber employee has deleted her account. But would she ever go back?</description>
+      <dc:creator>MAUREEN DOWD</dc:creator>
+      <pubDate>Sat, 21 Oct 2017 09:00:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mind: How Fiction Becomes Fact on Social Media</title>
+      <link>https://www.nytimes.com/2017/10/20/health/social-media-fake-news.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/20/health/social-media-fake-news.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/20/health/social-media-fake-news.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/24/science/24SOCIALMEDIA/24SOCIALMEDIA-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Stephen Savage</media:credit>
+      <description>Platforms like Facebook and Twitter offer up memes designed to feel real, if only for an instant &#x2014; long enough for our minds to make a false connection.</description>
+      <dc:creator>BENEDICT CAREY</dc:creator>
+      <pubDate>Mon, 23 Oct 2017 15:32:50 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Psychology and Psychologists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Twitter</category>
+    </item>
+    <item>
+      <title>The Woman Who Created #MeToo Long Before Hashtags</title>
+      <link>https://www.nytimes.com/2017/10/20/us/me-too-movement-tarana-burke.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/20/us/me-too-movement-tarana-burke.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/20/us/me-too-movement-tarana-burke.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/20/us/20xp-metoo1/20xp-metoo1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Tarana Burke created a nonprofit organization to help victims of sexual harassment and assault.</media:description>
+      <media:credit>via justbeinc.org</media:credit>
+      <description>Tarana Burke was helping victims of sexual harassment long before Alyssa Milano&#x2019;s tweet gave the movement a boost.</description>
+      <dc:creator>SANDRA E. GARCIA</dc:creator>
+      <pubDate>Fri, 20 Oct 2017 23:25:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burke, Tarana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Twitter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Milano, Alyssa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Weinstein, Harvey</category>
+    </item>
+    <item>
+      <title>Tech Tip: Taking Your iTunes Library to Android</title>
+      <link>https://www.nytimes.com/2017/10/20/technology/personaltech/itunes-library-android.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/20/technology/personaltech/itunes-library-android.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/20/technology/personaltech/itunes-library-android.html?partner=rss&amp;emc=rss"/>
+      <description>Apple&#x2019;s iTunes Store used to be more restrictive, but if you&#x2019;ve purchased music there in the past eight years, you can play it more places.</description>
+      <dc:creator>J. D. BIERSDORFER</dc:creator>
+      <pubDate>Fri, 20 Oct 2017 13:36:44 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Audio Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Android (Operating System)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">iTunes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Google Play</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Apple Inc</category>
+    </item>
+    <item>
+      <title>Hundreds of Mysterious Stone &#x2018;Gates&#x2019; Found in Saudi Arabia&#x2019;s Desert</title>
+      <link>https://www.nytimes.com/2017/10/19/science/saudi-arabia-gates-google-earth.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/19/science/saudi-arabia-gates-google-earth.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/19/science/saudi-arabia-gates-google-earth.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/20/science/20tb-gates-map01/20tb-gates-map01-moth.png" medium="image" height="151" width="151"/>
+      <media:description>Using Google Earth, an archaeologist has identified nearly 400 stone structures called &#x201C;gates&#x201D; in Saudi Arabia. They may have been built by ancient nomadic tribes.</media:description>
+      <media:credit>Satellite photo by CNES/Airbus, via Google Earth</media:credit>
+      <description>With Google Earth, archaeologists have uncovered strange stone structures that may have been built by nomadic tribes in ancient lava fields.</description>
+      <dc:creator>NICHOLAS ST. FLEUR</dc:creator>
+      <pubDate>Fri, 20 Oct 2017 15:32:51 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archaeology and Anthropology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, David L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Arabian Archaeology and Epigraphy (Journal)</category>
+    </item>
+    <item>
+      <title>Lyft Is Said to Explore I.P.O. as It Raises $1 Billion Led by Alphabet</title>
+      <link>https://www.nytimes.com/2017/10/19/technology/lyft-capitalg-alphabet.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/19/technology/lyft-capitalg-alphabet.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/19/technology/lyft-capitalg-alphabet.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/20/business/20LYFT1/20LYFT1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Lyft raised $1 billion in a new investment led by CapitalG, the venture arm of Alphabet.</media:description>
+      <media:credit>Stephen Lam/Reuters</media:credit>
+      <description>The ride-hailing company is exploring a 2018 initial public offering, as it added fresh capital to its coffers from investors including a venture arm spun out of Google.</description>
+      <dc:creator>MIKE ISAAC and KATIE BENNER</dc:creator>
+      <pubDate>Thu, 19 Oct 2017 22:30:06 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Lyft Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Initial Public Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Car Services and Livery Cabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Alphabet Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Uber Technologies Inc</category>
+    </item>
+    <item>
+      <title>Trump Picks Joseph Simons, Corporate Antitrust Lawyer, to Lead F.T.C.</title>
+      <link>https://www.nytimes.com/2017/10/19/business/trump-ftc-simons.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/19/business/trump-ftc-simons.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/19/business/trump-ftc-simons.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/20/business/20FTC1/20FTC1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Federal Trade Commission building in Washington. The agency is facing new skepticism over the power of big internet companies.</media:description>
+      <media:credit>Alex Brandon/Associated Press</media:credit>
+      <description>The choice comes at a time of broad bipartisan concern over corporate consolidation and big deals in the waiting.</description>
+      <dc:creator>CECILIA KANG</dc:creator>
+      <pubDate>Fri, 20 Oct 2017 03:16:29 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Simons, Joseph J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Federal Trade Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+    </item>
+    <item>
+      <title>Tech Tip: Editing Your History on Amazon</title>
+      <link>https://www.nytimes.com/2017/10/19/technology/personaltech/amazon-browsing-history.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/19/technology/personaltech/amazon-browsing-history.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/19/technology/personaltech/amazon-browsing-history.html?partner=rss&amp;emc=rss"/>
+      <description>The shopping site keeps a record of the products you browse in the hope you&#x2019;ll return to close the deal, but you can turn off the tracking.</description>
+      <dc:creator>J. D. BIERSDORFER</dc:creator>
+      <pubDate>Thu, 19 Oct 2017 13:40:49 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Amazon.com Inc</category>
+    </item>
+    <item>
+      <title>Want to Clap for Xi Jinping&#x2019;s Speech? Use Your Smartphone</title>
+      <link>https://www.nytimes.com/2017/10/19/business/xi-jinping-wechat-clap.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/19/business/xi-jinping-wechat-clap.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/19/business/xi-jinping-wechat-clap.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/20/business/20XIAPP2/20XIAPP2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A screen shot of the game in WeChat that lets users show their appreciation for President Xi Jinping of China by quickly and repeatedly tapping their phone screens.</media:description>
+      <media:credit/>
+      <description>A WeChat app lets users show appreciation for the Chinese leader&#x2019;s words by mashing their screens. The game says players have clapped a billion times so far.</description>
+      <dc:creator>RAYMOND ZHONG</dc:creator>
+      <pubDate>Thu, 19 Oct 2017 12:36:45 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer and Video Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Instant Messaging</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Tencent Holdings Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">WeChat (Mobile App)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+    </item>
+    <item>
+      <title>Senators Demand Online Ad Disclosures as Tech Lobby Mobilizes</title>
+      <link>https://www.nytimes.com/2017/10/19/us/politics/facebook-google-russia-meddling-disclosure.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/19/us/politics/facebook-google-russia-meddling-disclosure.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/19/us/politics/facebook-google-russia-meddling-disclosure.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/20/us/20dc-techlobby-sub/19dc-techlobby-sub-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Senator John McCain on Wednesday on Capitol Hill.</media:description>
+      <media:credit>Al Drago for The New York Times</media:credit>
+      <description>Tech has fought online ad regulations, but three senators will introduce a bipartisan bill to force the industry to disclose who buys political ads.</description>
+      <dc:creator>KENNETH P. VOGEL and CECILIA KANG</dc:creator>
+      <pubDate>Thu, 19 Oct 2017 23:26:49 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Online Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Presidential Election of 2016</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clinton, Hillary Rodham</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elias, Marc E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Klobuchar, Amy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warner, Mark R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCain, John</category>
+    </item>
+    <item>
+      <title>Dream City?: Google&#x2019;s Founders Wanted to Shape a City. Toronto Is Their Chance.</title>
+      <link>https://www.nytimes.com/2017/10/18/upshot/taxibots-sensors-and-self-driving-shuttles-a-glimpse-at-an-internet-city-in-toronto.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/18/upshot/taxibots-sensors-and-self-driving-shuttles-a-glimpse-at-an-internet-city-in-toronto.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/18/upshot/taxibots-sensors-and-self-driving-shuttles-a-glimpse-at-an-internet-city-in-toronto.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/20/business/20up-toronto/up19-toronto-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A rendering of the Sidewalk Labs vision for a new waterfront development in Toronto.</media:description>
+      <media:credit>Sidewalk Labs</media:credit>
+      <description>Here&#x2019;s an opportunity to develop &#x201C;the world&#x2019;s first neighborhood built from the internet up,&#x201D; but will humans be put first?</description>
+      <dc:creator>EMILY BADGER</dc:creator>
+      <pubDate>Wed, 18 Oct 2017 22:32:43 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Area Planning and Renewal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Toronto (Ontario)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Urban Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Alphabet Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Sidewalk Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schmidt, Eric E</category>
+    </item>
+    <item>
+      <title>Tech We&#x2019;re Using: Pioneering Virtual Reality and New Video Technologies in Journalism</title>
+      <link>https://www.nytimes.com/2017/10/18/technology/personaltech/virtual-reality-video.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/18/technology/personaltech/virtual-reality-video.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/18/technology/personaltech/virtual-reality-video.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/10/business/19TECHUSING-1/19TECHUSING-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Marcelle Hopkins, deputy video editor at The Times, trying on virtual reality technology at a V.R. event this month.</media:description>
+      <media:credit>Danny Ghitis for The New York Times</media:credit>
+      <description>Marcelle Hopkins, deputy video editor and co-director of virtual reality, traces The Times&#x2019;s push into V.R. and other visual technologies.</description>
+      <dc:creator>MARCELLE HOPKINS</dc:creator>
+      <pubDate>Wed, 18 Oct 2017 22:42:22 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Reality (Computers)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Headphones and Headsets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">New York Times</category>
+    </item>
+    <item>
+      <title>Tech Tip: Using New Space-Saving Photo Files</title>
+      <link>https://www.nytimes.com/2017/10/18/technology/personaltech/heif-photo-file-format.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/18/technology/personaltech/heif-photo-file-format.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/18/technology/personaltech/heif-photo-file-format.html?partner=rss&amp;emc=rss"/>
+      <description>With the latest updates for its Macs and mobile devices, Apple has added support for new image and video formats while keeping things compatible.</description>
+      <dc:creator>J. D. BIERSDORFER</dc:creator>
+      <pubDate>Wed, 18 Oct 2017 13:33:39 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">iOS (Operating System)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">iPhone</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Apple Inc</category>
+    </item>
+    <item>
+      <title>Samsung Is Under Scrutiny Again as South Korean Police Raid Offices</title>
+      <link>https://www.nytimes.com/2017/10/18/business/samsung-investigation-police-raid.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/18/business/samsung-investigation-police-raid.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/18/business/samsung-investigation-police-raid.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/19/world/19samsung-1/19samsung-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Lee Kun-hee, Samsung&#x2019;s patriarch, leaving a court in Seoul, South Korea, in 2008. The police are now investigating whether he misappropriated company funds to renovate his family&#x2019;s home.</media:description>
+      <media:credit>Chung Sung-Jun/Getty Images</media:credit>
+      <description>Two months after a scion of the conglomerate&#x2019;s controlling family was sent to prison, investigators were looking into an alleged misappropriation of company funds.</description>
+      <dc:creator>JEYUP S. KWAAK</dc:creator>
+      <pubDate>Thu, 19 Oct 2017 02:01:13 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Samsung C&amp;T Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Samsung Group</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lee Kun-hee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lee Jae-yong (1968- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Samsung Electronics Co</category>
+    </item>
+    <item>
+      <title>How Many People Watch Netflix? Nielsen Tries to Solve a Mystery</title>
+      <link>https://www.nytimes.com/2017/10/18/business/media/nielsen-netflix-viewers.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/18/business/media/nielsen-netflix-viewers.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/18/business/media/nielsen-netflix-viewers.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/19/business/19nielsen/stranger-things-watching-moth-v4.jpg" medium="image" height="151" width="151"/>
+      <media:description>Gaten Matarazzo, left, Finn Wolfhard, Caleb McLaughlin and Noah Schnapp in the original Netflix series &#x201C;Stranger Things.&#x201D;</media:description>
+      <media:credit>Jackson Lee Davis/Netflix</media:credit>
+      <description>The ratings company is using audio-recognition software to crack a closely guarded trade secret.</description>
+      <dc:creator>JOHN KOBLIN</dc:creator>
+      <pubDate>Thu, 19 Oct 2017 04:01:46 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Nielsen Media Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Netflix Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ratings (Audience Measurement)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Video Recordings, Downloads and Streaming</category>
+    </item>
+    <item>
+      <title>State of the Art: How the Frightful Five Put Start-Ups in a Lose-Lose Situation</title>
+      <link>https://www.nytimes.com/2017/10/18/technology/frightful-five-start-ups.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/18/technology/frightful-five-start-ups.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/18/technology/frightful-five-start-ups.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/19/business/19STATE/19STATE-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Doug Chayka</media:credit>
+      <description>In Silicon Valley, small companies used to unseat big ones. Now the clutches of the five biggest tech companies are hard to escape.</description>
+      <dc:creator>FARHAD MANJOO</dc:creator>
+      <pubDate>Wed, 18 Oct 2017 09:00:24 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Snap Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Innovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Microsoft Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">IAC/InterActiveCorp</category>
+    </item>
+    <item>
+      <title>After Drone Hits Plane in Canada, New Fears About Air Safety</title>
+      <link>https://www.nytimes.com/2017/10/17/world/canada/canada-drone-plane.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/17/world/canada/canada-drone-plane.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/17/world/canada/canada-drone-plane.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/17/world/18xp-drone/18xp-drone-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Marc Garneau, Canada&#x2019;s transport minister.</media:description>
+      <media:credit>Chris Wattie/Reuters</media:credit>
+      <description>Pilots are filing reports of drones flying too high on a weekly, almost daily basis, despite new rules and fines.</description>
+      <dc:creator>CHRISTINA CARON</dc:creator>
+      <pubDate>Tue, 17 Oct 2017 23:22:27 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
+    </item>
+    <item>
+      <title>Google Serves Fake News Ads in an Unlikely Place: Fact-Checking Sites</title>
+      <link>https://www.nytimes.com/2017/10/17/technology/google-fake-ads-fact-check.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/17/technology/google-fake-ads-fact-check.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/17/technology/google-fake-ads-fact-check.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/17/business/17FAKEFACTS-COMBO1/17FAKEFACTS-COMBO1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>At the top of PolitiFact&#x2019;s front page last week, a display ad served by Google promoted a fake news story that said Melania Trump was leaving the White House. It linked to a faked version of Vogue&#x2019;s site.</media:description>
+      <media:credit/>
+      <description>Google placed ads linking to blatantly bogus stories on Snopes and PolitiFact, sites created precisely to dispel such falsehoods.</description>
+      <dc:creator>DAISUKE WAKABAYASHI and LINDA QIU</dc:creator>
+      <pubDate>Tue, 17 Oct 2017 23:32:51 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Online Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search Engines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">PolitiFact.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Snopes</category>
+    </item>
+    <item>
+      <title>Google Maps Pulls Calorie-Counting Feature After Criticism</title>
+      <link>https://www.nytimes.com/2017/10/17/technology/google-maps-calories.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/17/technology/google-maps-calories.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/17/technology/google-maps-calories.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/19/business/19GOOGLE/18xp-google-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Google said the calorie feature would be removed from its map app.</media:description>
+      <media:credit>Dado Ruvic/Reuters</media:credit>
+      <description>The app told users how many calories they would burn by walking instead of driving, but was criticized as dangerous to people with eating disorders.</description>
+      <dc:creator>DANIEL VICTOR</dc:creator>
+      <pubDate>Tue, 17 Oct 2017 23:13:16 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Calories</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Eating Disorders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Mental Health and Disorders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Weight</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Google Maps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Google Inc</category>
+    </item>
+    <item>
+      <title>Tech Tip: Moving the Windows 10 Taskbar by Hand</title>
+      <link>https://www.nytimes.com/2017/10/17/technology/personaltech/moving-windows-10-taskbar-by-hand.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/17/technology/personaltech/moving-windows-10-taskbar-by-hand.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/17/technology/personaltech/moving-windows-10-taskbar-by-hand.html?partner=rss&amp;emc=rss"/>
+      <description>Like previous versions of the system, Windows 10 lets you move the taskbar to where you want it.</description>
+      <dc:creator>J. D. BIERSDORFER</dc:creator>
+      <pubDate>Tue, 17 Oct 2017 13:50:23 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Windows (Operating System)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tablet Computers</category>
+    </item>
+    <item>
+      <title>Google&#x2019;s Pixel 2 Smartphone Is a Powerful Extravagance</title>
+      <link>https://www.nytimes.com/2017/10/17/technology/personaltech/googles-pixel-2-smartphone-is-a-powerful-extravagance.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/17/technology/personaltech/googles-pixel-2-smartphone-is-a-powerful-extravagance.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/17/technology/personaltech/googles-pixel-2-smartphone-is-a-powerful-extravagance.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/17/business/18PIXEL-1/18PIXEL-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Pixel 2, the new flagship phone from Google that goes on sale Thursday.</media:description>
+      <media:credit>Google</media:credit>
+      <description>Google&#x2019;s new Pixel 2 phone is clearly impressive, according to our reviewer. But whether that makes the device worth buying is another matter.</description>
+      <dc:creator>CADE METZ</dc:creator>
+      <pubDate>Tue, 17 Oct 2017 13:00:26 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Android (Operating System)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">iPhone</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Apple Inc</category>
+    </item>
+  </channel>
+</rss>

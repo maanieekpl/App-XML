@@ -1,0 +1,44 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<?xml-stylesheet href="task4.xsl" type="text/xsl"?>
+<members>
+	<member>
+		<ID_number>001</ID_number>
+		<Author>Adrian</Author>
+		<Title>ghgjhasdg</Title>
+	</member>
+	<member>
+		<ID_number>002</ID_number>
+		<Author>Adrian</Author>
+		<Title>ghgjhasdg</Title>
+	</member>
+	<member>
+		<ID_number>003</ID_number>
+		<Author>Adrian</Author>
+		<Title>ghgjhasdg</Title>
+	</member>
+	<member>
+		<ID_number>004</ID_number>
+		<Author>Adrian</Author>
+		<Title>ghgjhasdg</Title>
+	</member>
+	<member>
+		<ID_number>005</ID_number>
+		<Author>Adrian</Author>
+		<Title>ghgjhasdg</Title>
+	</member>
+	<member>
+		<ID_number>006</ID_number>
+		<Author>Adrian</Author>
+		<Title>ghgjhasdg</Title>
+	</member>
+	<member>
+		<ID_number>007</ID_number>
+		<Author>Adrian</Author>
+		<Title>ghgjhasdg</Title>
+	</member>
+	<member>
+		<ID_number>008</ID_number>
+		<Author>Adrian</Author>
+		<Title>ghgjhasdg</Title>
+	</member>
+</members>

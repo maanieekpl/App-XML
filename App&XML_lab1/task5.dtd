@@ -1,0 +1,9 @@
+<!ELEMENT company (persones)>
+<!ELEMENT persones (persone+)>
+<!ELEMENT persone (name, surname, home_address, phone, job)>
+<!ATTLIST persone id ID #REQUIRED>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT surname (#PCDATA)>
+<!ELEMENT home_address (#PCDATA)>
+<!ELEMENT phone (#PCDATA)>
+<!ELEMENT job (#PCDATA)>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<company>
+<persones>
+	<persone id="01">
+		<name>Adrian</name>
+		<surname>Koszowski</surname>
+		<home_address>Strzelin</home_address>
+		<phone>666555444</phone>
+		<job>none</job>
+	</persone>
+		<persone id="02">
+		<name>Magda</name>
+		<surname>Jaś</surname>
+		<home_address>Wrocław</home_address>
+		<phone>444555666</phone>
+		<job>OCBAW</job>
+	</persone>
+		<persone id="03">
+		<name>Agnieszka</name>
+		<surname>Haj</surname>
+		<home_address>Wrocław</home_address>
+		<phone>111222333</phone>
+		<job>TUH</job>
+	</persone>
+		<persone id="04">
+		<name>Wiktor</name>
+		<surname>Chło</surname>
+		<home_address>Strzelin</home_address>
+		<phone>999888777</phone>
+		<job>Stan</job>
+	</persone>
+		<persone id="05">
+		<name>Patryk</name>
+		<surname>Bła</surname>
+		<home_address>Strzelin</home_address>
+		<phone>555666999</phone>
+		<job>wóz</job>
+	</persone>
+</persones>
+</company>

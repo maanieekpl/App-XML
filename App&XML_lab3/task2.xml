@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<university>
+	<description>lldlldklaskldkalkdals</description>
+	<address>Wybrzeże Wyspiańskiego 27 50-370 Wrocław, Poland</address>
+	<established>"1945"></established>
+	<faculties>
+		<faculty>
+			<faculty_name>Architecture</faculty_name>
+			<major>Architecture and Urban Planning</major>
+			<major>Another major</major>
+		</faculty>
+		<faculty>
+			<faculty_name>Civil Engineering</faculty_name>
+			<major>Major</major>
+			<major>Another major</major>
+		</faculty>
+		<faculty>
+			<faculty_name>Chemistry</faculty_name>
+			<major>Major</major>
+			<major>Another major</major>		
+		</faculty>
+		<faculty>
+			<faculty_name>Electronics</faculty_name>
+			<major>Major</major>
+			<major>Another major</major>				
+		</faculty>
+		<faculty>
+			<faculty_name>Telecomunication</faculty_name>
+			<major>Major</major>
+			<major>Another major</major>				
+		</faculty>
+	</faculties>
+</university>

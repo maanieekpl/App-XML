@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<menu>
+    <food category="Espanol">
+        <name>Paella</name>
+        <price>29.99</price>
+        <description>Some description</description>
+        <calories>689</calories>
+    </food>
+</menu>

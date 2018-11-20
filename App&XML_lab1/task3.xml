@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<memories>
+	<memory tapeid="01">
+		<media mediaid="001"/>
+		<subdate>asdasd</subdate>
+		<donor>asdsad</donor>
+		<subject>dsasdasd</subject>
+		<location>
+			<desription>djdjdj</desription>
+			<place>jlkjlkasdj</place>
+		</location>
+	</memory>
+	<memory tapeid="02">
+		<media mediaid="001"/>
+		<subdate>asdasd</subdate>
+		<donor>asdsad</donor>
+		<subject>dsasdasd</subject>
+		<location>
+			<desription>djdjdj</desription>
+			<place>jlkjlkasdj</place>
+		</location>
+	</memory>
+	<memory tapeid="03">
+		<media mediaid="001"/>
+		<subdate>asdasd</subdate>
+		<donor>asdsad</donor>
+		<subject>dsasdasd</subject>
+		<location>
+			<desription>djdjdj</desription>
+			<place>jlkjlkasdj</place>
+		</location>
+	</memory>
+</memories>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<university name="Wroclaw University of Science and Technology">
+	<description>lldlldklaskldkalkdals</description>
+	<address>Wybrzeże Wyspiańskiego 27 50-370 Wrocław, Poland</address>
+	<established year="1945"></established>
+	<faculties>
+		<faculty name="Architecture">
+			<major>Architecture and Urban Planning</major>
+			<major>Another major</major>
+		</faculty>
+		<faculty name="Civil Engineering">
+			<major>Major</major>
+			<major>Another major</major>
+		</faculty>
+		<faculty name="Chemistry">
+			<major>Major</major>
+			<major>Another major</major>		
+		</faculty>
+		<faculty name="Electronics">
+			<major>Major</major>
+			<major>Another major</major>				
+		</faculty>
+		<faculty name="Telecomunication">
+			<major>Major</major>
+			<major>Another major</major>				
+		</faculty>
+	</faculties>
+</university>

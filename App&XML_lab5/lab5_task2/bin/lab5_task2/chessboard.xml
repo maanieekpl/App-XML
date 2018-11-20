@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chessboard>
+	<pawn>
+		<name>White King</name>
+		<position>G1</position>
+	</pawn>
+	<pawn>
+		<name>White bishop</name>
+		<position>D6</position>
+	</pawn>
+	<pawn>
+		<name>Black rook</name>
+		<position>E1</position>
+	</pawn>
+
+</chessboard>

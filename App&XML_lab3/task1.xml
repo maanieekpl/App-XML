@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<person>
+	<name>Adrian</name>
+	<surname>Koszowski</surname>
+	<home_address>Strzelin</home_address>
+	<phone>666555444</phone>
+	<mobile>444555666</mobile>
+	<job>none</job>
+</person>

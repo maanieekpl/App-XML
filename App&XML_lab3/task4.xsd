@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<!-- definition of simple elements -->
+<xs:element name="description" type="xs:string"/>
+<xs:element name="address" type="xs:string"/>
+<xs:element name="established" type="xs:string"/>
+<xs:element name="faculties" minOccurs="1">
+<xs:element name="faculty_name" type="xs:string"/>
+<xs:element name="major" type="xs:string"/>
+
+<!-- definition of attributes -->
+
+<!-- definition of complex elements -->
+<xs:element name="faculty">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element ref="faculty_name"/>
+      <xs:element ref=name="major" minOccurs="1" maxOccurs="20"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+<xs:element name="faculties">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element ref="faculty" minOccurs="1" maxOccurs="20"/>
+  </xs:complexType>
+</xs:element>
+
+<xs:element name="university">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element ref="description"/>
+      <xs:element ref="address"/>
+      <xs:element ref="established"/>
+      <xs:element ref="faculties" minOccurs="1" maxOccurs="20"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+</xs:schema>
